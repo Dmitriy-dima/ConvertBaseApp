@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-21b4d64b313d8a7c6d9e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "convertBase",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "convertBase::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-convertBase-Release-8072aad74a3ed3a61a36.json",
+					"name" : "convertBase",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "convertBase_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-convertBase_autogen-Release-5126638682e1720b81e1.json",
+					"name" : "convertBase_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "convertBase_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-convertBase_autogen_timestamp_deps-Release-41e78584e4b48af304a6.json",
+					"name" : "convertBase_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Ilya/Documents/build-convertBase-Desktop_Qt_6_5_1_MinGW_64_bit-Release",
+		"source" : "C:/Users/Ilya/Documents/convertBase"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
